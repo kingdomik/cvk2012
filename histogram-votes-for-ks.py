@@ -26,7 +26,7 @@ f = open('protocol.csv')
 f.readline() # Пропускаем заголовок протокола
 for line in f.readlines():
     (id, phone, all_votes) = line.split(';')
-    votes = set(all_votes.strip().split(','))
+    votes = set(all_votes.strip().split(',')) # Убираем дупликаты - Артефакт протокола
     if len(mmm & votes) >= 35: # Фильтруем МММ
         continue
     for k in keys:

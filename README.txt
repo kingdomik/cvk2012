@@ -6,7 +6,7 @@
 
 protocol.csv - Расшифрованный протокол выборов
 Источник http://shipilev.net/pub/articles/cvk2012/10_23_2012_20_41_43/protocol.csv
-Примечание: Удалены последние пусты строки
+Примечание: Удалены последние пустые строки
 		      
 voters.csv - Список избирателей
 Источник https://election.cvk2012.org/home/users
