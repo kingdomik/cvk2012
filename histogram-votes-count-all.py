@@ -1,14 +1,11 @@
 # coding=utf-8
 
-import os
-import sys
-import string
 import codecs
 
 mmm = set()
 for line in open('mmm-candidates.csv'):
     (id, name) = line.split(';')
-    mmm.add(str((int(id) - 1))) # Сдвиг номера кандидатов - Артефакт протокола
+    mmm.add(str((int(id) - 1))) # Сдвиг номеров кандидатов - Артефакт протокола
 
 limits = range(32, 40)
 histogram = { i : { j : 0 for j in limits } for i in range(0,46) } 
