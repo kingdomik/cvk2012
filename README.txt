@@ -1,20 +1,22 @@
-Описание файлов:
+РћРїРёСЃР°РЅРёРµ С„Р°Р№Р»РѕРІ:
 
 -----------------
- Исходные данные
+ РСЃС…РѕРґРЅС‹Рµ РґР°РЅРЅС‹Рµ
 -----------------
 
-protocol.csv		Расшифрованный протокол выборов
-		       		Источник http://shipilev.net/pub/articles/cvk2012/10_23_2012_20_41_43/protocol.csv
+protocol.csv - Р Р°СЃС€РёС„СЂРѕРІР°РЅРЅС‹Р№ РїСЂРѕС‚РѕРєРѕР» РІС‹Р±РѕСЂРѕРІ
+РСЃС‚РѕС‡РЅРёРє http://shipilev.net/pub/articles/cvk2012/10_23_2012_20_41_43/protocol.csv
+РџСЂРёРјРµС‡Р°РЅРёРµ: РЈРґР°Р»РµРЅС‹ РїРѕСЃР»РµРґРЅРёРµ РїСѓСЃС‚С‹ СЃС‚СЂРѕРєРё
 		      
-voters.csv			Список избирателей
-			 		Источник https://election.cvk2012.org/home/users
+voters.csv - РЎРїРёСЃРѕРє РёР·Р±РёСЂР°С‚РµР»РµР№
+РСЃС‚РѕС‡РЅРёРє https://election.cvk2012.org/home/users
 
-options.csv 		Список всех кандидатов
-		      		Источник http://www.cvk2012.org/file/%7B03fa8ad1-3987-489b-8120-cb3570702712%7D
+options.csv - РЎРїРёСЃРѕРє РІСЃРµС… РєР°РЅРґРёРґР°С‚РѕРІ
+РСЃС‚РѕС‡РЅРёРє http://www.cvk2012.org/file/%7B03fa8ad1-3987-489b-8120-cb3570702712%7D
 
-mmm-candidates.csv	Список кандидатов от Мавроди
-		       		Источник http://shipilev.net/pub/articles/cvk2012/10_23_2012_20_41_43/mmm-candidates.csv
+mmm-candidates.csv - РЎРїРёСЃРѕРє РєР°РЅРґРёРґР°С‚РѕРІ РѕС‚ РњР°РІСЂРѕРґРё
+РСЃС‚РѕС‡РЅРёРє http://shipilev.net/pub/articles/cvk2012/10_23_2012_20_41_43/mmm-candidates.csv
 					 	     
-raiting.csv			Официальные результаты голосования
-					Источник http://www.cvk2012.org/news/rezultaty_golosovaniya/					 	   
+raiting.csv - РћС„РёС†РёР°Р»СЊРЅС‹Рµ СЂРµР·СѓР»СЊС‚Р°С‚С‹ РіРѕР»РѕСЃРѕРІР°РЅРёСЏ
+РСЃС‚РѕС‡РЅРёРє http://www.cvk2012.org/news/rezultaty_golosovaniya/
+РџСЂРёРјРµС‡Р°РЅРёРµ: РЎРєРѕРјРїРёР»РёСЂРѕРІР°РЅ РїРѕР»СѓР°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё РІ Excel					 	   
