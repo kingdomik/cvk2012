@@ -20,7 +20,7 @@ for line in open('raiting.csv'):
     raiting = int(rate[1:])
     if raiting <= limits[block]:
         blocks['All'].add(id)
-        blocks[rate[0]].add(id)
+        blocks[block].add(id)
         
 f = open('protocol.csv')
 f.readline() # Пропускаем заголовок протокола
